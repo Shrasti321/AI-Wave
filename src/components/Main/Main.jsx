@@ -11,7 +11,7 @@ const Main = () => {
     <div className='main'>
       <div className="nav">
         <p>AI-Wave</p>
-        <img src={assets.user_icon} alt="" />
+        <img src={assets.user_icon3} alt="" />
       </div>
       <div className="main-container">
 
@@ -42,11 +42,11 @@ const Main = () => {
         </>
         :<div className='result'>
             <div className="result-title">
-                <img src={assets.user_icon} alt="" />
+                <img src={assets.user_icon3} alt="" />
                 <p>{recentPrompt}</p>
             </div>
             <div className="result-data">
-              <img src={assets.gemini_icon} alt="" />
+              <img src={assets.ai_icon0} alt="" />
               {loading
               ?<div className='loader'>
                   <hr />

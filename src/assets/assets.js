@@ -13,6 +13,10 @@ import message_icon from './message_icon.png'
 import code_icon from './code_icon.png'
 import send_icon from './send_icon.png'
 import gemini_icon from './gemini_icon.png'
+import user_icon3 from './user_icon3.png'
+import ai_icon4 from './ai_icon4.png'
+import user_icon4 from './user_icon4.png'
+import ai_icon0 from './ai_icon0.png'
 
 export const assets = {
     history_icon,
@@ -29,5 +33,9 @@ export const assets = {
     message_icon,
     code_icon,
     send_icon,
-    gemini_icon
+    gemini_icon,
+    user_icon3,
+    user_icon4,
+    ai_icon4,
+    ai_icon0
 }
