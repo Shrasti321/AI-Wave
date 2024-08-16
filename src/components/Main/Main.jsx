@@ -69,7 +69,7 @@ const Main = () => {
               <img onClick={()=>onSent()} src={assets.send_icon} alt="" />
             </div>
           </div>
-          <p className="bottom-info">Gemini may display inaccurate info, so double check its responses. Your privacy and Gemini Apps.</p>
+          <p className="bottom-info">AI-Wave may display inaccurate info, so double check its responses. Your privacy and AI-Wave Apps.</p>
         </div>
       </div>
     </div>
